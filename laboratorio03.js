@@ -46,5 +46,5 @@ images.add('Mona Lisa', 'Leonardo da Vinci', 1503);
 images.show();
 images.clear();
 
-console.log(image.contains(images)); 
+console.log(image.contains); 
 console.log(images.show());
